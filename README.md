@@ -8,13 +8,59 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), no Instituto Fede
 * 🌱 Atualmente estou aprendendo: TypeScript, SQL e C
 
 ---
+🚗 Projeto de API REST para Gerenciamento de Concessionária — Parte 2
 
+Demos continuidade ao projeto desenvolvido na disciplina de Programação para Web do curso de Análise e Desenvolvimento de Sistemas! Na primeira etapa, construímos toda a estrutura da API REST sem persistência de dados. Agora, na parte 2, evoluímos o projeto integrando o banco de dados MySQL 🐬
+
+
+
+Principais avanços desta etapa:
+
+ ✅ Persistência real dos dados no MySQL
+
+ ✅ Modelagem e criação das tabelas do banco
+
+ ✅ Integração da API com o banco de dados
+
+ ✅ Refatoração das rotas para operações de CRUD persistentes
+
+ ✅ Tratamento de relacionamentos entre clientes, vendedores, veículos, estoque e notas fiscais.
+
+
+
+Esse foi um passo importante para aproximar o projeto de um cenário real de mercado, já que toda aplicação back-end precisa lidar com armazenamento e consistência de dados. Trabalhar com a modelagem do banco e a integração via código trouxe um aprendizado prático sobre como estruturar uma aplicação de forma escalável e organizada.
+
+
+
+🛠 Tecnologias utilizadas:
+
+Node.js
+
+Express
+
+TypeScript
+
+MySQL
+
+Git e GitHub
+
+
+
+Mais uma vez, agradeço aos colegas Caroline Inácio e Gabriel Demichelli pela parceria no desenvolvimento, e ao professor Anisio Alfredo da Silva Junior pela orientação ao longo do projeto.
+
+
+
+🔗 Repositório do projeto: https://github.com/Gustadev-7/projeto-I-prog-web
+
+
+
+#NodeJS #TypeScript #ExpressJS #APIREST #MySQL #Backend #DesenvolvimentoWeb #GitHub #Tecnologia #ADS #Programacao  
 ### 🛠️ Minhas Habilidades / Tech Stack
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Front-End** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| **Back-End** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| **Front-End** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+| **Back-End** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
 | **Banco de Dados**| ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 | **Ferramentas** | ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white) |
 
