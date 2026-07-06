@@ -8,53 +8,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), no Instituto Fede
 * 🌱 Atualmente estou aprendendo: TypeScript, SQL e C
 
 ---
-🚗 Projeto de API REST para Gerenciamento de Concessionária — Parte 2
 
-Demos continuidade ao projeto desenvolvido na disciplina de Programação para Web do curso de Análise e Desenvolvimento de Sistemas! Na primeira etapa, construímos toda a estrutura da API REST sem persistência de dados. Agora, na parte 2, evoluímos o projeto integrando o banco de dados MySQL 🐬
-
-
-
-Principais avanços desta etapa:
-
- ✅ Persistência real dos dados no MySQL
-
- ✅ Modelagem e criação das tabelas do banco
-
- ✅ Integração da API com o banco de dados
-
- ✅ Refatoração das rotas para operações de CRUD persistentes
-
- ✅ Tratamento de relacionamentos entre clientes, vendedores, veículos, estoque e notas fiscais.
-
-
-
-Esse foi um passo importante para aproximar o projeto de um cenário real de mercado, já que toda aplicação back-end precisa lidar com armazenamento e consistência de dados. Trabalhar com a modelagem do banco e a integração via código trouxe um aprendizado prático sobre como estruturar uma aplicação de forma escalável e organizada.
-
-
-
-🛠 Tecnologias utilizadas:
-
-Node.js
-
-Express
-
-TypeScript
-
-MySQL
-
-Git e GitHub
-
-
-
-Mais uma vez, agradeço aos colegas Caroline Inácio e Gabriel Demichelli pela parceria no desenvolvimento, e ao professor Anisio Alfredo da Silva Junior pela orientação ao longo do projeto.
-
-
-
-🔗 Repositório do projeto: https://github.com/Gustadev-7/projeto-I-prog-web
-
-
-
-#NodeJS #TypeScript #ExpressJS #APIREST #MySQL #Backend #DesenvolvimentoWeb #GitHub #Tecnologia #ADS #Programacao  
 ### 🛠️ Minhas Habilidades / Tech Stack
 
 | Categoria | Tecnologias |
