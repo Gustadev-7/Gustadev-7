@@ -90,11 +90,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Feder
 
 <br>
 
-## 📚 Cursos em Andamento
+## 📚 Cursos & Certificados
 
 | | Curso | Instituição | Status |
 | :---: | :--- | :--- | :---: |
-| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="30" align="absmiddle" alt="UX/UI" /> | **UX/UI Design** | ![Google](https://img.shields.io/badge/Google-1a1b26?style=flat-square&logo=google&logoColor=4285F4) | 🟡 Em andamento |
+| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="30" align="absmiddle" alt="UX Design" /> | **Foundations of User Experience (UX) Design** | ![Google](https://img.shields.io/badge/Google-1a1b26?style=flat-square&logo=google&logoColor=4285F4) | 🟢 Concluído<br><sub><a href="https://coursera.org/share/10a13efd53478eb371f42129a63f0455">ver certificado ↗</a></sub> |
 | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="30" align="absmiddle" alt="Java" /> | **Java** | ![Red Hat](https://img.shields.io/badge/Red%20Hat-1a1b26?style=flat-square&logo=redhat&logoColor=EE0000) | 🟡 Em andamento |
 
 <br>
