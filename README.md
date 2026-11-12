@@ -1,124 +1,110 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="gustavo@gustadev:~$ whoami" />
+  <a href="https://gustavo-domingos.vercel.app"><img src="./assets/header.svg" width="100%" alt="Gustavo Domingos · dev back-end em formação" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-domingos-4b7880356"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzdhYTJmNyIvPjxjaXJjbGUgY3g9IjciIGN5PSI3IiByPSIxLjYiIGZpbGw9IiMxYTFiMjYiLz48cmVjdCB4PSI1LjYiIHk9IjkuNSIgd2lkdGg9IjIuOCIgaGVpZ2h0PSI4LjUiIGZpbGw9IiMxYTFiMjYiLz48cGF0aCBmaWxsPSIjMWExYjI2IiBkPSJNMTAuNSA5LjVoMi43djEuMmMuNS0uOSAxLjYtMS41IDIuOS0xLjUgMi40IDAgMy40IDEuNSAzLjQgNFYxOGgtMi44di00LjNjMC0xLjItLjQtMi0xLjUtMnMtMS45LjktMS45IDIuMVYxOGgtMi44eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/gusta.dev7/"><img src="https://img.shields.io/badge/Instagram-1a1b26?style=flat-square&logo=instagram&logoColor=bb9af7" alt="Instagram" /></a>
-  <a href="mailto:gustavo.souzadomingos7@gmail.com"><img src="https://img.shields.io/badge/E--mail-1a1b26?style=flat-square&logo=gmail&logoColor=f7768e" alt="E-mail" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Gustadev-7&color=1a1b26&style=flat-square&label=visualiza%C3%A7%C3%B5es" alt="Visualizações" />
+  <a href="https://gustavo-domingos.vercel.app"><img src="https://img.shields.io/badge/portf%C3%B3lio-ffb547?style=flat-square&logo=vercel&logoColor=1c1304&labelColor=ffb547&color=ffb547" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-domingos-4b7880356"><img src="https://img.shields.io/badge/LinkedIn-141413?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI2VjZWJlNiIvPjxjaXJjbGUgY3g9IjciIGN5PSI3IiByPSIxLjYiIGZpbGw9IiMxNDE0MTMiLz48cmVjdCB4PSI1LjYiIHk9IjkuNSIgd2lkdGg9IjIuOCIgaGVpZ2h0PSI4LjUiIGZpbGw9IiMxNDE0MTMiLz48cGF0aCBmaWxsPSIjMTQxNDEzIiBkPSJNMTAuNSA5LjVoMi43djEuMmMuNS0uOSAxLjYtMS41IDIuOS0xLjUgMi40IDAgMy40IDEuNSAzLjQgNFYxOGgtMi44di00LjNjMC0xLjItLjQtMi0xLjUtMnMtMS45LjktMS45IDIuMVYxOGgtMi44eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/gusta.dev7/"><img src="https://img.shields.io/badge/Instagram-141413?style=flat-square&logo=instagram&logoColor=ecebe6" alt="Instagram" /></a>
+  <a href="mailto:gustavo.souzadomingos7@gmail.com"><img src="https://img.shields.io/badge/E--mail-141413?style=flat-square&logo=gmail&logoColor=ecebe6" alt="E-mail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Gustadev-7&color=141413&style=flat-square&label=visualiza%C3%A7%C3%B5es" alt="Visualizações" />
 </p>
 
 <br>
 
-## 👨‍💻 Sobre Mim
+<img src="./assets/sec-sobre.svg" width="100%" alt="GET /sobre" />
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de São Paulo** e trabalho como **Assistente de TI**. No dia a dia lido com suporte e infraestrutura, e nos estudos foco em desenvolvimento back-end, construindo APIs e aprendendo como sistemas funcionam por dentro. Acredito que a tecnologia pode tornar o mundo um lugar melhor, e quero fazer parte disso.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP** e trabalho como **Assistente de TI**. Comecei no suporte e hoje também desenvolvo sistemas internos que estão em uso na empresa. Meu foco é o **back-end**: entender o que acontece entre a requisição e a resposta.
 
-- 🔭 Atualmente desenvolvendo **APIs REST com Node.js e TypeScript**
-- 🌱 Aprofundando em **TypeScript, Java, SQL e C**
-- 💬 Pode falar comigo sobre **back-end, bancos de dados e suporte de TI**
-- ⚡ Curto entender o "porquê" das coisas, não só o "como"
+- 🔭 Construindo **APIs REST com Node.js e TypeScript**
+- 📚 Estudando **Java EE** com a Red Hat (EJB, JPA, JAX-RS)
+- 💬 Pode falar comigo sobre **back-end, bancos de dados e APIs**
+- ⚡ Curto entender o *porquê* das coisas, não só o *como*
 
 <br>
 
-## 🛠️ Tech Stack
+<img src="./assets/sec-stack.svg" width="100%" alt="GET /stack" />
 
-<table align="center">
-  <thead>
-    <tr>
-      <th width="190" align="center">🎨 Front-End</th>
-      <th width="190" align="center">⚙️ Back-End</th>
-      <th width="190" align="center">🗄️ Banco de Dados</th>
-      <th width="190" align="center">🧰 Ferramentas</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="30" align="absmiddle" alt="HTML5" title="HTML5" />&nbsp;&nbsp;<b>HTML5</b></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="30" align="absmiddle" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;<b>TypeScript</b></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="30" align="absmiddle" alt="MySQL" title="MySQL" />&nbsp;&nbsp;<b>MySQL</b></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="30" align="absmiddle" alt="Node.js" title="Node.js" />&nbsp;&nbsp;<b>Node.js</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="30" align="absmiddle" alt="CSS3" title="CSS3" />&nbsp;&nbsp;<b>CSS3</b></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="30" align="absmiddle" alt="Java" title="Java" />&nbsp;&nbsp;<b>Java</b></td>
-      <td><img src="./assets/oracle.svg" width="30" align="absmiddle" alt="Oracle" title="Oracle" />&nbsp;&nbsp;<b>Oracle</b></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="30" align="absmiddle" alt="Git" title="Git" />&nbsp;&nbsp;<b>Git</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="30" align="absmiddle" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;<b>JavaScript</b></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="30" align="absmiddle" alt="PHP" title="PHP" />&nbsp;&nbsp;<b>PHP</b></td>
-      <td></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="30" align="absmiddle" alt="Postman" title="Postman" />&nbsp;&nbsp;<b>Postman</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="30" align="absmiddle" alt="React" title="React" />&nbsp;&nbsp;<b>React</b></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="30" align="absmiddle" alt="C" title="C" />&nbsp;&nbsp;<b>C</b></td>
-      <td></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="30" align="absmiddle" alt="VS Code" title="VS Code" />&nbsp;&nbsp;<b>VS Code</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" width="30" align="absmiddle" alt="Angular" title="Angular" />&nbsp;&nbsp;<b>Angular</b></td>
-      <td></td>
-      <td></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="30" align="absmiddle" alt="IntelliJ IDEA" title="IntelliJ IDEA" />&nbsp;&nbsp;<b>IntelliJ IDEA</b></td>
-    </tr>
-  </tbody>
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <sub><code>01</code></sub> <b>Back-end</b><br><br>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="22" align="absmiddle" alt="" /> <b>Node.js</b><br><sub>CRM · PrintMonitor · Concessionária</sub><br><br>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="22" align="absmiddle" alt="" /> <b>PHP</b><br><sub>CRM · PrintMonitor</sub><br><br>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="22" align="absmiddle" alt="" /> <b>TypeScript</b><br><sub>PrintMonitor · Concessionária</sub><br><br>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="22" align="absmiddle" alt="" /> <b>Java</b><br><sub>Sistema de Compras</sub>
+    </td>
+    <td width="25%" valign="top">
+      <sub><code>02</code></sub> <b>Banco de dados</b><br><br>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="22" align="absmiddle" alt="" /> <b>MySQL</b><br><sub>Concessionária</sub><br><br>
+      🔥 <b>Firebird</b><br><sub>CRM · PrintMonitor</sub><br><br>
+      <img src="./assets/oracle.svg" width="22" align="absmiddle" alt="" /> <b>Oracle</b><br><sub>faculdade</sub>
+    </td>
+    <td width="25%" valign="top">
+      <sub><code>03</code></sub> <b>Front-end</b><br><br>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="22" align="absmiddle" alt="" /> <b>React</b><br><sub>CRM · PrintMonitor</sub><br><br>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" width="22" align="absmiddle" alt="" /> <b>Angular</b><br><sub>portfólio</sub><br><br>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="22" align="absmiddle" alt="" /> <b>JS · HTML · CSS</b><br><sub>base de tudo</sub>
+    </td>
+    <td width="25%" valign="top">
+      <sub><code>04</code></sub> <b>Ferramentas</b><br><br>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="22" align="absmiddle" alt="" /> <b>Git</b><br><sub>todos os projetos</sub><br><br>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="22" align="absmiddle" alt="" /> <b>Postman</b><br><sub>teste de APIs</sub><br><br>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="22" align="absmiddle" alt="" /> <b>IntelliJ IDEA</b><br><sub>projetos Java</sub>
+    </td>
+  </tr>
 </table>
 
 <br>
 
-## 🎓 Formação & Experiência
+<img src="./assets/sec-projetos.svg" width="100%" alt="GET /projetos" />
 
-| | Instituição / Empresa | Função | Status |
-| :---: | :--- | :--- | :---: |
-| 🎓 | **Instituto Federal de São Paulo (IFSP)** | Tecnólogo em Análise e Desenvolvimento de Sistemas | 🟢 Cursando |
-| 💼 | **Vidroeste Vidros** | Assistente de TI | 🟢 Atual |
+<table>
+  <tr>
+    <td width="50%"><a href="https://gustavo-domingos.vercel.app/#projetos"><img src="./assets/proj-crm.svg" width="100%" alt="CRM de Atendimento · uso interno, em produção · React, PHP, Node.js, WebSocket" /></a></td>
+    <td width="50%"><a href="https://gustavo-domingos.vercel.app/#projetos"><img src="./assets/proj-printmonitor.svg" width="100%" alt="PrintMonitor · uso interno, em produção · React, TypeScript, Node.js, PHP" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/Gustadev-7/projeto-I-prog-web"><img src="./assets/proj-concessionaria.svg" width="100%" alt="API Concessionária · IFSP, em equipe · Node.js, TypeScript, Express, MySQL" /></a></td>
+    <td width="50%"><a href="https://github.com/Gustadev-7/SitemaDeCompras"><img src="./assets/proj-compras.svg" width="100%" alt="Sistema de Compras · estudo · Java, POO" /></a></td>
+  </tr>
+</table>
 
-<br>
+<sub>Os sistemas de uso interno não têm código público. Os detalhes estão no <a href="https://gustavo-domingos.vercel.app/#projetos">portfólio</a>.</sub>
 
-## 📂 Projetos em Destaque
+<br><br>
 
-> ### 🚗 [API REST — Concessionária](https://github.com/Gustadev-7/projeto-I-prog-web)
-> Sistema de gerenciamento de concessionária com rotas REST, desenvolvido com Node.js, Express e TypeScript e testado com Postman.
->
-> ![TypeScript](https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=3178c6) ![Node.js](https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=5fa04e) ![Express](https://img.shields.io/badge/Express-1a1b26?style=flat-square&logo=express&logoColor=white)
+<img src="./assets/sec-trajetoria.svg" width="100%" alt="GET /trajetoria" />
 
-> ### 🔜 Próximo projeto
-> Em desenvolvimento. Fique de olho por aqui! 👀
-
-<br>
-
-## 📚 Cursos & Certificados
-
-| | Curso | Instituição | Status |
-| :---: | :--- | :--- | :---: |
-| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="30" align="absmiddle" alt="UX Design" /> | **Foundations of User Experience (UX) Design** | ![Google](https://img.shields.io/badge/Google-1a1b26?style=flat-square&logo=google&logoColor=4285F4) | 🟢 Concluído<br><sub><a href="https://coursera.org/share/10a13efd53478eb371f42129a63f0455">ver certificado ↗</a></sub> |
-| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="30" align="absmiddle" alt="Java" /> | **Java** | ![Red Hat](https://img.shields.io/badge/Red%20Hat-1a1b26?style=flat-square&logo=redhat&logoColor=EE0000) | 🟡 Em andamento |
+<a href="https://coursera.org/share/10a13efd53478eb371f42129a63f0455"><img src="./assets/trajetoria.svg" width="100%" alt="Trajetória: Assistente de TI na Vidroeste (2025 – atual), ADS no IFSP (2025 – atual), certificado Foundations of UX Design pelo Google (nov 2026), Java EE pela Red Hat (em andamento)" /></a>
 
 <br>
 
-## 📊 Estatísticas
-
-<p align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Gustadev-7&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true&hide_title=true" alt="Estatísticas" />&nbsp;<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustadev-7&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens" /></p>
-
-<p align="center"><img height="165" src="https://streak-stats.demolab.com?user=Gustadev-7&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" /></p>
-
-<p align="center"><img width="100%" src="https://raw.githubusercontent.com/Gustadev-7/Gustadev-7/output/snake-tokyonight.svg" alt="Animação das contribuições" /></p>
-
-<br>
-
-## 🤝 Vamos nos conectar?
-
-Estou sempre aberto a trocar ideias, colaborar em projetos ou conversar sobre tecnologia. Me chama em qualquer uma das redes abaixo!
+<img src="./assets/sec-stats.svg" width="100%" alt="GET /stats" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-domingos-4b7880356"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI2ZmZmZmZiIvPjxjaXJjbGUgY3g9IjciIGN5PSI3IiByPSIxLjYiIGZpbGw9IiMwQTY2QzIiLz48cmVjdCB4PSI1LjYiIHk9IjkuNSIgd2lkdGg9IjIuOCIgaGVpZ2h0PSI4LjUiIGZpbGw9IiMwQTY2QzIiLz48cGF0aCBmaWxsPSIjMEE2NkMyIiBkPSJNMTAuNSA5LjVoMi43djEuMmMuNS0uOSAxLjYtMS41IDIuOS0xLjUgMi40IDAgMy40IDEuNSAzLjQgNFYxOGgtMi44di00LjNjMC0xLjItLjQtMi0xLjUtMnMtMS45LjktMS45IDIuMVYxOGgtMi44eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/gusta.dev7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:gustavo.souzadomingos7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gustadev-7&show_icons=true&hide_border=false&border_radius=14&locale=pt-br&include_all_commits=true&hide_title=true&bg_color=141413&border_color=2b2a27&text_color=ecebe6&icon_color=86d6a1&title_color=ffb547" alt="Estatísticas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustadev-7&layout=compact&hide_border=false&border_radius=14&locale=pt-br&bg_color=141413&border_color=2b2a27&text_color=ecebe6&title_color=ffb547" alt="Linguagens" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Gustadev-7&locale=pt_BR&border_radius=14&background=141413&border=2b2a27&stroke=2b2a27&ring=ffb547&fire=ffb547&currStreakNum=ecebe6&sideNums=ecebe6&currStreakLabel=ffb547&sideLabels=94928a&dates=5e5d58" alt="Sequência de contribuições" />
+</p>
+
+<p align="center"><img width="100%" src="https://raw.githubusercontent.com/Gustadev-7/Gustadev-7/output/snake.svg" alt="Animação das contribuições" /></p>
+
+<br>
+
+<img src="./assets/sec-contato.svg" width="100%" alt="POST /contato" />
+
+Aberto a trocar ideias, colaborar em projetos ou conversar sobre back-end. O jeito mais rápido é o formulário do portfólio, que manda a mensagem direto para o meu e-mail.
+
+<p align="center">
+  <a href="https://gustavo-domingos.vercel.app/#contato"><img src="https://img.shields.io/badge/POST_%2Fcontato-ffb547?style=for-the-badge&labelColor=ffb547&color=ffb547&logoColor=1c1304" alt="Enviar mensagem pelo portfólio" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-domingos-4b7880356"><img src="https://img.shields.io/badge/LinkedIn-141413?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIi      ByeD0iMyIgZmlsbD0iI2VjZWJlNiIvPjxjaXJjbGUgY3g9IjciIGN5PSI3IiByPSIxLjYiIGZpbGw9IiMxNDE0MTMiLz48cmVjdCB4PSI1LjYiIHk9IjkuNSIgd2lkdGg9IjIuOCIgaGVpZ2h0PSI4LjUiIGZpbGw9IiMxNDE0MTMiLz48cGF0aCBmaWxsPSIjMTQxNDEzIiBkPSJNMTAuNSA5LjVoMi43djEuMmMuNS0uOSAxLjYtMS41IDIuOS0xLjUgMi40IDAgMy40IDEuNSAzLjQgNFYxOGgtMi44di00LjNjMC0xLjItLjQtMi0xLjUtMnMtMS45LjktMS45IDIuMVYxOGgtMi44eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/gusta.dev7/"><img src="https://img.shields.io/badge/Instagram-141413?style=for-the-badge&logo=instagram&logoColor=ecebe6" alt="Instagram" /></a>
 </p>
 
 <br>
 
-<p align="center"><sub>⌨️ Feito com muito energético e curiosidade em Boituva/SP</sub></p>
+<p align="center"><sub><code>gusta.dev</code> · feito com muito energético e curiosidade em Boituva/SP</sub></p>
