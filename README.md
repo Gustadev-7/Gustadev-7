@@ -83,11 +83,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP** e trabal
 <img src="./assets/sec-stats.svg" width="100%" alt="GET /stats" />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gustadev-7&show_icons=true&hide_border=false&border_radius=14&locale=pt-br&include_all_commits=true&hide_title=true&bg_color=141413&border_color=2b2a27&text_color=ecebe6&icon_color=86d6a1&title_color=ffb547" alt="Estatísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustadev-7&layout=compact&hide_border=false&border_radius=14&locale=pt-br&bg_color=141413&border_color=2b2a27&text_color=ecebe6&title_color=ffb547" alt="Linguagens" />
-</p>
-
-<p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Gustadev-7&locale=pt_BR&border_radius=14&background=141413&border=2b2a27&stroke=2b2a27&ring=ffb547&fire=ffb547&currStreakNum=ecebe6&sideNums=ecebe6&currStreakLabel=ffb547&sideLabels=94928a&dates=5e5d58" alt="Sequência de contribuições" />
 </p>
 
@@ -101,7 +96,7 @@ Aberto a trocar ideias, colaborar em projetos ou conversar sobre back-end. O jei
 
 <p align="center">
   <a href="https://gustavo-domingos.vercel.app/#contato"><img src="https://img.shields.io/badge/POST_%2Fcontato-ffb547?style=for-the-badge&labelColor=ffb547&color=ffb547&logoColor=1c1304" alt="Enviar mensagem pelo portfólio" /></a>
-  <a href="https://www.linkedin.com/in/gustavo-domingos-4b7880356"><img src="https://img.shields.io/badge/LinkedIn-141413?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIi      ByeD0iMyIgZmlsbD0iI2VjZWJlNiIvPjxjaXJjbGUgY3g9IjciIGN5PSI3IiByPSIxLjYiIGZpbGw9IiMxNDE0MTMiLz48cmVjdCB4PSI1LjYiIHk9IjkuNSIgd2lkdGg9IjIuOCIgaGVpZ2h0PSI4LjUiIGZpbGw9IiMxNDE0MTMiLz48cGF0aCBmaWxsPSIjMTQxNDEzIiBkPSJNMTAuNSA5LjVoMi43djEuMmMuNS0uOSAxLjYtMS41IDIuOS0xLjUgMi40IDAgMy40IDEuNSAzLjQgNFYxOGgtMi44di00LjNjMC0xLjItLjQtMi0xLjUtMnMtMS45LjktMS45IDIuMVYxOGgtMi44eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-domingos-4b7880356"><img src="https://img.shields.io/badge/LinkedIn-141413?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI2VjZWJlNiIvPjxjaXJjbGUgY3g9IjciIGN5PSI3IiByPSIxLjYiIGZpbGw9IiMxNDE0MTMiLz48cmVjdCB4PSI1LjYiIHk9IjkuNSIgd2lkdGg9IjIuOCIgaGVpZ2h0PSI4LjUiIGZpbGw9IiMxNDE0MTMiLz48cGF0aCBmaWxsPSIjMTQxNDEzIiBkPSJNMTAuNSA5LjVoMi43djEuMmMuNS0uOSAxLjYtMS41IDIuOS0xLjUgMi40IDAgMy40IDEuNSAzLjQgNFYxOGgtMi44di00LjNjMC0xLjItLjQtMi0xLjUtMnMtMS45LjktMS45IDIuMVYxOGgtMi44eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/gusta.dev7/"><img src="https://img.shields.io/badge/Instagram-141413?style=for-the-badge&logo=instagram&logoColor=ecebe6" alt="Instagram" /></a>
 </p>
 
